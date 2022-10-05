@@ -4,3 +4,4 @@ Given a number n, determine what the nth prime is. By listing the first six prim
 Reverse a string
 For example: input: "cool" output: "looc"
 
+dartpad is 100 very good
